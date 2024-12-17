@@ -4,7 +4,7 @@
 **Things that did in the practical,**
 1. React Native project(firstapp) created using following command
 ```bash
-npx create-expo-app@latest firstapp
+npx create-expo-app firstapp
 ```
 2. Run the project using the following commands
 ```bash
@@ -15,3 +15,8 @@ npx expo start
 ```bash
 npx expo start --tunnel
 ```
+3. To clean the project(reset the project)
+```bash
+npm run reset-project
+```
+4. Created simple UI
