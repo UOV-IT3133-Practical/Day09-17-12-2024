@@ -2,7 +2,7 @@
 ### 2020/ICT/58
 
 **Things that did in the practical,**
-1. Created react native project using following command
+1. React Native project created using following command
 ```bash
 npx create-expo-app@latest fisrtapp
 ```
